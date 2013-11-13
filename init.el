@@ -85,3 +85,4 @@ ELPA (or MELPA).")
  (run-at-time 5 nil 'prelude-tip-of-the-day))
 
 ;;; init.el ends here
+(put 'set-goal-column 'disabled nil)
